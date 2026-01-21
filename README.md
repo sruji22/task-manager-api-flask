@@ -15,10 +15,11 @@ A simple Flask REST API to manage tasks (CRUD operations) using SQLite.
 - SQLite
 
 ## How to Run
-```bash 
-pip install -r requirements.txt 
-python app.py 
-'''
+
+```bash
+pip install -r requirements.txt
+python app.py
+```
 
 
 

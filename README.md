@@ -15,6 +15,14 @@ A simple Flask REST API to manage tasks (CRUD operations) using SQLite.
 - SQLite
 
 ## How to Run
-1. Install dependencies:
-```bash
-pip install -r requirements.txt
+```bash 
+pip install -r requirements.txt 
+python app.py 
+'''
+
+
+
+
+
+
+

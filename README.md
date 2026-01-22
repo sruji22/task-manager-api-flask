@@ -13,14 +13,14 @@ A simple Flask REST API to manage tasks (CRUD operations) using SQLite.
 - Python
 - Flask
 - SQLite
-
 ## How to Run
 
 ```bash
-pip install -r requirements.txt
-python app.py
-```
+python3 -m venv venv
+source venv/bin/activate
 
+pip install -r requirements.txt
+python3 app.py
 
 
 
